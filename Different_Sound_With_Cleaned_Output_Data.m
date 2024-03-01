@@ -92,7 +92,7 @@ disp("Finish.");
 % Cleaning function
 function cleaned_data = cleanEEGData(raw_data)
     % Select only the EEG channels and the marker column
-    eeg_data = raw_data(:, 1:4); % Example: assuming channels 1 to 4 are EEG
+    eeg_data = raw_data(:, 1:4); % channels 1 to 4 are EEG
     markers = raw_data(:, end); % markers are in the last column
     
     % Subtract the mean from each channel
