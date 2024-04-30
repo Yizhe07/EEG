@@ -1,0 +1,11 @@
+[2024-04-17 20:20:02.287] [board_logger] [info] incoming json: {"serial_port":"COM3","mac_address":"","ip_address":"","ip_address_aux":"","ip_address_anc":"","ip_port":0,"ip_port_aux":0,"ip_port_anc":0,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":"","file_aux":"","file_anc":"","master_board":-100}
+[2024-04-17 20:20:02.289] [board_logger] [debug] use dyn lib: C:\Users\Yizhe\Desktop\EEG_All_Data\EEG_Research\brainflow-master\compiled\Release\GanglionLib.dll
+[2024-04-17 20:20:02.289] [board_logger] [trace] Board object created 1
+[2024-04-17 20:20:02.290] [board_logger] [debug] Library is loaded
+[2024-04-17 20:20:02.290] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2024-04-17 20:20:02.291] [board_logger] [debug] ganglionlib initialized
+[2024-04-17 20:20:02.291] [board_logger] [info] mac address is not specified, try to find ganglion without it
+[2024-04-17 20:20:03.971] [board_logger] [info] detected firmware version 2
+[2024-04-17 20:20:03.973] [board_logger] [trace] File Streamer, file: data_default.csv, mods: w
+[2024-04-17 20:20:03.975] [board_logger] [info] use command b to start streaming
+[2024-04-17 20:20:04.051] [board_logger] [debug] start streaming
